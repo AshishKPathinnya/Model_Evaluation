@@ -24,6 +24,8 @@ Project Steps
 Results
 
 The models were evaluated based on their performance on the test set after hyperparameter tuning. The evaluation metrics for each model are summarized below:
+
+
 Model 	                     Accuracy Precision   Recall   	F1-score
 LogisticRegression 	         0.9722 	0.9741      0.9722  	0.9722
 SVC 	                       1.0000 	1.0000      1.0000 	  1.0000
